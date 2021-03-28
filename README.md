@@ -4,7 +4,7 @@ Strokes remain one of the leading causes of death worldwide. Thus, being able to
 
 ## Machine Learning
 
-The Machine Learning component of this project can be found in [Stroke_Prediction_Classification.ipynb](Stroke_Prediction_Classification.ipynb).
+The Machine Learning component of this project can be found in [Stroke_Prediction_Classification.ipynb](Stroke_Prediction_Classification.ipynb), and the dataset can be found in [healthcare-dataset-stroke-data.csv](healthcare-dataset-stroke-data.csv) (originally from https://www.kaggle.com/fedesoriano/stroke-prediction-dataset).
 
 ## Web App
 
